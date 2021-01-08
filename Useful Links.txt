@@ -1,0 +1,5 @@
+P1:
+https://en.wikipedia.org/wiki/Wiener_filter
+https://stackoverflow.com/questions/10206441/niblack-algorithm-for-document-binarization (Is also S1)
+https://en.wikipedia.org/wiki/Radial_basis_function_interpolation
+
